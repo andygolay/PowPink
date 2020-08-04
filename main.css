@@ -46,7 +46,7 @@ a.username {
 
 a.c.selector.selection, a.sort-item.top {
   color:darkred!important;
-  border-bottom: 3px solid darkred;
+  border-bottom: 3px solid darkred!important;
 }
 
 a.u.selector, a.sort-item.active {

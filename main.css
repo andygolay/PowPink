@@ -188,6 +188,6 @@ a.not * {background:pink!important}
 }
 
 button#submit:focus, button#submit:active {
-   outline: deeppink 2px solid !important;
+   outline: none !important;
    box-shadow: none;
 }

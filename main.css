@@ -186,3 +186,8 @@ a.not * {background:pink!important}
 .upload-image, .upload-file {
     border: deeppink 3px solid!important;
 }
+
+button#submit:focus, button#submit:active {
+   outline: deeppink 2px solid !important;
+   box-shadow: none;
+}

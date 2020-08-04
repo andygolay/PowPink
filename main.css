@@ -191,3 +191,5 @@ button#submit:focus, button#submit:active {
    outline: none !important;
    box-shadow: none;
 }
+
+body > div.container > div.channel-header > div > a { color:white;border:white solid 1px;}

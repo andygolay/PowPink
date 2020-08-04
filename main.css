@@ -192,4 +192,11 @@ button#submit:focus, button#submit:active {
    box-shadow: none;
 }
 
-body > div.container > div.channel-header > div > a { color:white;border:white solid 1px;}
+body > div.container > div.channel-header > div > a { color:whitesmoke;border:whitesmoke solid 1px;}
+
+body > div.container > div.filter > div {
+    background:#004925!important;
+  color:whitesmoke;
+      
+}
+

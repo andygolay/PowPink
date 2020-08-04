@@ -6,8 +6,11 @@
   "content_scripts": [
     {
       "matches": ["*://powping.com/*"],
-      "css": ["main.css"],
-      "js": ["main.js"]
+      "css": ["main.css"]
+    },
+    {
+      "matches": ["*://powping.com/discover/active"],
+      "css": ["active.css"]
     }
   ]
 }

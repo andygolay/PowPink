@@ -1,0 +1,10 @@
+a.selector, a.sort-item.top {
+  color:whitesmoke!important;
+  border-bottom: 3px solid whitesmoke!important;
+}
+
+.selector.selection, a.sort-item.active {
+  color:darkred!important;
+  border-bottom: 3px solid darkred!important;
+}
+body > div.container > div.info > a {color:darkred!important;}

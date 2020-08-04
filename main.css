@@ -135,7 +135,6 @@ div.tiptip-bar > .button, div.tip-row-buttons > .button {
     color:darkred!important;
     border:darkred 1px solid!important;
 }
-}
 
 .right textarea {
     background:white!important;
@@ -196,7 +195,6 @@ body > div.container > div.channel-header > div > a { color:whitesmoke;border:wh
 
 body > div.container > div.filter > div {
     background:#004925!important;
-  color:whitesmoke;
-      
+  color:whitesmoke;     
 }
 

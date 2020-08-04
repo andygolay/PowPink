@@ -16,10 +16,6 @@ div {
   border-radius: 5px !important;
 }
 
-.announcement {
-  background:#ff83c1!important;
-}
-
 i.fas {
   background:none!important;
 }
@@ -31,10 +27,6 @@ a.username {
   color:darkred!important;
 }
 
-.info a {
-  color: darkred!important;
-}
-
 .post-item * {
  background:pink!important;
 }
@@ -44,15 +36,16 @@ a.username {
 }
 
 
-a.c.selector.selection, a.sort-item.top {
+a.selector, a.sort-item {
+  color:whitesmoke!important;
+  border-bottom: 3px solid whitesmoke;
+}
+
+.selector.selection, a.sort-item.top {
   color:darkred!important;
   border-bottom: 3px solid darkred!important;
 }
 
-a.u.selector, a.sort-item.active {
-  color:whitesmoke;
-  border-bottom: 3px solid whitesmoke;
-}
 
 input.dropdown-item {
   color:whitesmoke;
@@ -96,3 +89,94 @@ nav {
 nav a {
   color: white !important;
 }
+
+a.row {
+    background:pink;
+    border: lightpink 1px solid;
+}
+.announcement {
+  background:#ff83c1!important;
+  border-radius: 0!important;
+}
+
+body > div.container > div.info > a {color:darkred!important;}
+
+.form {
+    background:pink!important;
+}
+.form div {
+    background:pink!important;
+}
+
+.comment {
+    background: pink!important;
+    border: solid lightpink 1px;
+}
+.comment * {
+    background: pink!important;
+}
+
+.comment a {
+    color: darkred!important;
+}
+
+
+body > div.container > div.body > div.comments > div.amount-tip-row.top > div.tip-row-buttons > .button {
+    color:darkred!important;
+    border:darkred 1px solid!important;
+}
+
+
+body > div.container > div.header > div.statusbar {
+    border: solid 2px pink;
+}
+
+div.tiptip-bar > .button, div.tip-row-buttons > .button {
+    color:darkred!important;
+    border:darkred 1px solid!important;
+}
+}
+
+.right textarea {
+    background:white!important;
+}
+
+.right div.tip-button.button {
+    color:darkred!important;
+}
+
+.comment-tip-form textarea {
+    background:white!important;
+}
+
+.comment-tip-form input {
+    color:darkred!important;
+}
+.comment.highlight {
+  border: 5px deeppink solid;
+}
+
+.row .info {
+    background:pink!important;
+}
+
+.row .info * {
+    background:pink!important;
+}
+h2 {
+  color: darkred!important;
+  border-left: 10px solid darkred!important;
+}
+
+a.not * {background:pink!important}
+
+.swal2-modal {
+    background:#ff83c1!important;
+}
+
+.swal2-modal * {
+    background:#ff83c1!important;
+}
+.text a {color:darkred!important}
+
+.progressjs-inner{width:0}.progressjs-progress{z-index:9999999}.progressjs-theme-blue .progressjs-inner{height:2px;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;background-color:deeppink!important;}.progressjs-theme-blue.progressjs-end{-webkit-transition:opacity .2s ease-out;-moz-transition:opacity .2s ease-out;-o-transition:opacity .2s ease-out;transition:opacity .2s ease-out;opacity:0}.progressjs-theme-blue .progressjs-percent{display:none}.progressjs-theme-blueOverlay{background-color:white;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-o-transition:all .2s ease-out;transition:all .2s ease-out}.progressjs-theme-blueOverlay .progressjs-inner{height:100%;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;background-color:deeppink!important;}.progressjs-theme-blueOverlay.progressjs-end{opacity:0!important}.progressjs-theme-blueOverlay .progressjs-percent{display:none}.progressjs-theme-blueOverlay{background-color:white;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-o-transition:all .2s ease-out;transition:all .2s ease-out}.progressjs-theme-blueOverlay .progressjs-inner{height:100%;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;background-color:deeppink!important;}.progressjs-theme-blueOverlay.progressjs-end{opacity:0!important}.progressjs-theme-blueOverlay .progressjs-percent{display:none}.progressjs-theme-blueOverlayRadius{background-color:white;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-o-transition:all .2s ease-out;transition:all .2s ease-out;border-radius:5px}.progressjs-theme-blueOverlayRadius .progressjs-inner{height:100%;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;background-color:deeppink!important;border-radius:5px}.progressjs-theme-blueOverlayRadius.progressjs-end{opacity:0!important}.progressjs-theme-blueOverlayRadius .progressjs-percent{display:none}.progressjs-theme-blueOverlayRadiusHalfOpacity{background-color:white;opacity:.5;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-o-transition:all .2s ease-out;transition:all .2s ease-out;border-radius:5px}.progressjs-theme-blueOverlayRadiusHalfOpacity .progressjs-inner{height:100%;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;background-color:deeppink!important;border-radius:5px}.progressjs-theme-blueOverlayRadiusHalfOpacity.progressjs-end{opacity:0!important}.progressjs-theme-blueOverlayRadiusHalfOpacity .progressjs-percent{display:none}.progressjs-theme-blueOverlayRadiusWithPercentBar{background-color:white;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-o-transition:all .2s ease-out;transition:all .2s ease-out;border-radius:5px}.progressjs-theme-blueOverlayRadiusWithPercentBar .progressjs-inner{height:100%;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;background-color:deeppink!important;border-radius:5px}.progressjs-theme-blueOverlayRadiusWithPercentBar.progressjs-end{opacity:0!important}.progressjs-theme-blueOverlayRadiusWithPercentBar .progressjs-percent{width:70px;text-align:center;height:40px;position:absolute;right:50%;margin-right:-35px;top:50%;margin-top:-20px;font-size:30px;opacity:.5}.progressjs-theme-blackRadiusInputs{height:10px;border-radius:10px;overflow:hidden}.progressjs-theme-blackRadiusInputs .progressjs-inner{height:2px;-webkit-transition:all 1s ease-out;-moz-transition:all 1s ease-out;-o-transition:all 1s ease-out;transition:all 1s ease-out;background-color:#34495e}.progressjs-theme-blackRadiusInputs.progressjs-end{-webkit-transition:opacity .2s ease-out;-moz-transition:opacity .2s ease-out;-o-transition:opacity .2s ease-out;transition:opacity .2s ease-out;opacity:0}.progressjs-theme-blackRadiusInputs .progressjs-percent{display:none}

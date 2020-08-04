@@ -194,7 +194,6 @@ button#submit:focus, button#submit:active {
 body > div.container > div.channel-header > div > a { color:whitesmoke;border:whitesmoke solid 1px;}
 
 body > div.container > div.filter > div {
-    background:#004925!important;
-  color:whitesmoke;     
+    background:#004925!important;  
 }
 

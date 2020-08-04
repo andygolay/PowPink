@@ -1,0 +1,13 @@
+{
+  "name": "PowPink",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "For a pink PowPing experience",
+  "content_scripts": [
+    {
+      "matches": ["*://powping.com/*"],
+      "css": ["main.css"],
+      "js": ["main.js"]
+    }
+  ]
+}

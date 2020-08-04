@@ -1,0 +1,98 @@
+html {
+  background: lightpink !important;
+}
+
+div {
+  color: whitesmoke !important;
+  background: lightpink !important;
+}
+
+.filter {
+  background: #004925 !important;
+  filter: invert(1);
+}
+
+* {
+  border-radius: 5px !important;
+}
+
+.announcement {
+  background:#ff83c1!important;
+}
+
+i.fas {
+  background:none!important;
+}
+
+.nav-item.nav-user {
+   background:none!important;
+}
+a.username {
+  color:darkred!important;
+}
+
+.info a {
+  color: darkred!important;
+}
+
+.post-item * {
+ background:pink!important;
+}
+
+.post-item {
+ border:lightpink 1px solid!important;
+}
+
+
+a.c.selector.selection, a.sort-item.top {
+  color:darkred!important;
+  border-bottom: 3px solid darkred;
+}
+
+a.u.selector, a.sort-item.active {
+  color:whitesmoke;
+  border-bottom: 3px solid whitesmoke;
+}
+
+input.dropdown-item {
+  color:whitesmoke;
+}
+
+.dropdown.flex {
+  background:none!important;
+}
+
+.flexible {
+  background:none!important;
+}
+
+.dropdown.flex div {
+  background:none!important;
+}
+.highlight.post, .rules {
+  border: deeppink 2px solid!important;
+  background:pink!important;
+}
+.highlight * {
+
+  background:pink!important;
+}
+
+.button {
+  background: deeppink!important;
+}
+
+.desc {
+  color:whitesmoke!important;
+}
+nav {
+  color: whitesmoke !important;
+  border-radius: 0 0 5px 5px!important;
+}
+.nav-head {
+  background:none!important;
+}
+
+nav a {
+  color: white !important;
+}

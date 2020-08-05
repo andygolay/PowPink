@@ -1,4 +1,4 @@
-# PowPink
+# PowPink Version 2
 Chrome extension for a pink PowPing experience
 
 Screen shot: 

@@ -353,19 +353,16 @@ a.card {
 .form {
   background: rgba(255,0,255,0.06)!important;
 }
-#del:focus {
+textarea:focus, button.submit:focus, #del:focus {
     outline: none!important;
     box-shadow: 0 0 3px deeppink!important;
 }
-textarea:focus {
-outline: 1px solid deeppink !important;
-}
-
 .comment-form textarea {
   border: 1px solid rgba(255,0,255,0.3)!important;
 }
 .comment-form textarea:focus {
-    outline: 1px solid deeppink !important;
+  outline: none!important;
+  box-shadow: 0 0 3px deeppink!important;
 }
 .card-footer {
   color: rgba(255,0,255,0.8)!important;

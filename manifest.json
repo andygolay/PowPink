@@ -7,10 +7,6 @@
     {
       "matches": ["*://powping.com/*"],
       "css": ["main.css"]
-    },
-    {
-      "matches": ["*://powping.com/discover/active"],
-      "css": ["active.css"]
     }
   ]
 }

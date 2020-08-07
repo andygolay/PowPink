@@ -1,5 +1,5 @@
 # PowPink Version 2.1
-Chrome extension for a pink PowPing experience
+Chrome extension for a pink <a href="http://powping.com>PowPing.com"</a> experience
 
 Screen shot: 
 
